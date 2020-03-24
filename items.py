@@ -9,8 +9,7 @@ import scrapy
 from scrapy.loader.processors import TakeFirst, MapCompose, Join
 from w3lib.html import remove_tags
 from scrapy import Selector
-# review scrapen: einige Spiele haben keine reviews:
-# dann soll ,,no reviews" ausgegeben werden
+
 
 
 def remove_html(review_summary):
@@ -37,7 +36,6 @@ def get_platforms(one_class):
     return platforms
 
 
-# discount/no discount
 
 
 def get_original_price(html_markup):
@@ -52,7 +50,7 @@ def get_original_price(html_markup):
             original_price = selector_obj.xpath(
                 ".//div[contains(@class, 'search_price')]/text()").getall()
         return original_price
- # damit das Minuszeichen bei den Rabatten entfernt wird
+
 def clean_discount_rate(discount_rate):
     if discount_rate:
         return discount_rate.lstrip('-')
@@ -62,8 +60,7 @@ def clean_discount_rate(discount_rate):
 
 def clean_discounted_price(discounted_price):
     if discounted_price:
-            # wenn es einen discounted price gibt, gebe mir diesen zurück und entferne die weißen Strips
-        return discounted_price.strip()
+    return discounted_price.strip()
 
     return "No discount"
 
