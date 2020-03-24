@@ -1,0 +1,1231 @@
+[
+    {
+        "game_name": "Counter-Strike: Global Offensive",
+        "original_price": "Kostenlos",
+        "game_url": "https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/730/capsule_sm_120.jpg?t=1580765900",
+        "release_date": "21. Aug. 2012",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux"
+        ],
+        "reviews_summary": "Sehr positiv87 % der 4,076,344 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "DOOM Eternal",
+        "original_price": "59,99€",
+        "game_url": "https://store.steampowered.com/app/782330/DOOM_Eternal/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/782330/capsule_sm_120.jpg?t=1584739240",
+        "release_date": "19. März 2020",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv90 % der 22,307 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Half-Life: Alyx",
+        "original_price": "49,99€",
+        "game_url": "https://store.steampowered.com/app/546560/HalfLife_Alyx/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/546560/capsule_sm_120.jpg?t=1584985275",
+        "release_date": "23. März 2020",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Äußerst positiv96 % der 4,963 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Red Dead Redemption 2",
+        "original_price": "59,99€",
+        "discount_rate": "20%",
+        "discounted_price": "47,99€",
+        "game_url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/1174180/capsule_sm_120.jpg?t=1583253547",
+        "release_date": "5. Dez. 2019",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Größtenteils positiv71 % der 61,890 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Tom Clancy's Rainbow Six® Siege",
+        "original_price": "19,99€",
+        "discount_rate": "60%",
+        "discounted_price": "7,99€",
+        "game_url": "https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/359550/capsule_sm_120.jpg?t=1583856715",
+        "release_date": "1. Dez. 2015",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv88 % der 519,405 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Grand Theft Auto V",
+        "original_price": "29,99€",
+        "discount_rate": "50%",
+        "discounted_price": "14,99€",
+        "game_url": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/271590/capsule_sm_120.jpg?t=1579797647",
+        "release_date": "13. Apr. 2015",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Größtenteils positiv78 % der 692,163 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Assassin's Creed® Odyssey",
+        "original_price": "59,99€",
+        "discount_rate": "67%",
+        "discounted_price": "19,79€",
+        "game_url": "https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/812140/capsule_sm_120.jpg?t=1584609685",
+        "release_date": "5. Okt. 2018",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv87 % der 48,139 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "MONSTER HUNTER: WORLD",
+        "original_price": "29,99€",
+        "discount_rate": "34%",
+        "discounted_price": "19,79€",
+        "game_url": "https://store.steampowered.com/app/582010/MONSTER_HUNTER_WORLD/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/582010/capsule_sm_120.jpg?t=1583974232",
+        "release_date": "9. Aug. 2018",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv81 % der 135,987 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "The Witcher® 3: Wild Hunt",
+        "original_price": "29,99€",
+        "discount_rate": "70%",
+        "discounted_price": "8,99€",
+        "game_url": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/292030/capsule_sm_120.jpg?t=1581375222",
+        "release_date": "18. Mai 2015",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Äußerst positiv98 % der 312,467 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Planet Zoo",
+        "original_price": "44,99€",
+        "discount_rate": "20%",
+        "discounted_price": "35,99€",
+        "game_url": "https://store.steampowered.com/app/703080/Planet_Zoo/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/703080/capsule_sm_120.jpg?t=1578044080",
+        "release_date": "5. Nov. 2019",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv87 % der 20,132 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Black Desert Online",
+        "original_price": "9,99€",
+        "game_url": "https://store.steampowered.com/app/582660/Black_Desert_Online/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/582660/capsule_sm_120.jpg?t=1582826837",
+        "release_date": "24. Mai 2017",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Größtenteils positiv72 % der 22,280 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Stellaris",
+        "original_price": "39,99€",
+        "game_url": "https://store.steampowered.com/app/281990/Stellaris/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/281990/capsule_sm_120.jpg?t=1584545640",
+        "release_date": "9. Mai 2016",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux"
+        ],
+        "reviews_summary": "Sehr positiv83 % der 51,833 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Path of Exile",
+        "original_price": "Kostenlos",
+        "game_url": "https://store.steampowered.com/app/238960/Path_of_Exile/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/238960/capsule_sm_120.jpg?t=1584387270",
+        "release_date": "23. Okt. 2013",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv93 % der 125,816 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Age of Empires II: Definitive Edition",
+        "original_price": "19,99€",
+        "game_url": "https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/813780/capsule_sm_120.jpg?t=1584557567",
+        "release_date": "14. Nov. 2019",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv91 % der 31,713 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Divinity: Original Sin 2 - Definitive Edition",
+        "original_price": "44,99€",
+        "discount_rate": "50%",
+        "discounted_price": "22,49€",
+        "game_url": "https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/435150/capsule_sm_120.jpg?t=1581362845",
+        "release_date": "14. Sep. 2017",
+        "platforms": [
+            "Windows",
+            "Mac os"
+        ],
+        "reviews_summary": "Äußerst positiv95 % der 68,873 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "The Elder Scrolls® Online",
+        "original_price": "19,99€",
+        "game_url": "https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/306130/capsule_sm_120.jpg?t=1584121622",
+        "release_date": "22. Mai 2017",
+        "platforms": [
+            "Windows",
+            "Mac os"
+        ],
+        "reviews_summary": "Sehr positiv80 % der 53,305 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Monster Hunter World: Iceborne",
+        "original_price": "39,99€",
+        "discount_rate": "25%",
+        "discounted_price": "29,99€",
+        "game_url": "https://store.steampowered.com/app/1118010/Monster_Hunter_World_Iceborne/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/1118010/capsule_sm_120.jpg?t=1583972407",
+        "release_date": "9. Jan. 2020",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Ausgeglichen45 % der 9,538 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Ori and the Will of the Wisps",
+        "original_price": "29,99€",
+        "game_url": "https://store.steampowered.com/app/1057090/Ori_and_the_Will_of_the_Wisps/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/1057090/capsule_sm_120.jpg?t=1584751402",
+        "release_date": "10. März 2020",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv93 % der 18,433 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Far Cry® 5",
+        "original_price": "59,99€",
+        "discount_rate": "75%",
+        "discounted_price": "14,99€",
+        "game_url": "https://store.steampowered.com/app/552520/Far_Cry_5/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/552520/capsule_sm_120.jpg?t=1575655495",
+        "release_date": "26. März 2018",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Größtenteils positiv73 % der 49,580 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Euro Truck Simulator 2",
+        "original_price": "19,99€",
+        "game_url": "https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/227300/capsule_sm_120.jpg?t=1584533902",
+        "release_date": "12. Okt. 2012",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux"
+        ],
+        "reviews_summary": "Äußerst positiv97 % der 204,210 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Borderlands 3",
+        "original_price": "59,99€",
+        "game_url": "https://store.steampowered.com/app/397540/Borderlands_3/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/397540/capsule_sm_120.jpg?t=1584481269",
+        "release_date": "13. März 2020",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Größtenteils positiv79 % der 15,064 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Tabletop Simulator",
+        "original_price": "19,99€",
+        "game_url": "https://store.steampowered.com/app/286160/Tabletop_Simulator/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/286160/capsule_sm_120.jpg?t=1582487907",
+        "release_date": "5. Juni 2015",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux",
+            "VR_Supported"
+        ],
+        "reviews_summary": "Sehr positiv94 % der 13,434 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "ARK: Survival Evolved",
+        "original_price": "54,99€",
+        "game_url": "https://store.steampowered.com/app/346110/ARK_Survival_Evolved/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/346110/capsule_sm_120.jpg?t=1583178772",
+        "release_date": "29. Aug. 2017",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux"
+        ],
+        "reviews_summary": "Größtenteils positiv75 % der 239,283 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Destiny 2",
+        "original_price": "Kostenlos spielbar",
+        "game_url": "https://store.steampowered.com/app/1085660/Destiny_2/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/1085660/capsule_sm_120.jpg?t=1583858222",
+        "release_date": "1. Okt. 2019",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv88 % der 210,660 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Stellaris: Federations",
+        "original_price": "19,99€",
+        "game_url": "https://store.steampowered.com/app/1140001/Stellaris_Federations/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/1140001/capsule_sm_120.jpg?t=1584455873",
+        "release_date": "17. März 2020",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux"
+        ],
+        "reviews_summary": "Größtenteils positiv73 % der 551 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "STAR WARS Jedi: Fallen Order™",
+        "original_price": "59,99€",
+        "game_url": "https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/1172380/capsule_sm_120.jpg?t=1582679181",
+        "release_date": "15. Nov. 2019",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv92 % der 37,778 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Shadow of the Tomb Raider: Definitive Edition",
+        "original_price": "",
+        "game_url": "https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/750920/capsule_sm_120.jpg?t=1576776941",
+        "release_date": "14. Sep. 2018",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux"
+        ],
+        "reviews_summary": "Sehr positiv81 % der 19,639 Nutzerreviews für dieses Spiel sind positiv.Dieses Produkt hat über einen oder mehrere Zeiträume eine Vielzahl nicht themenbezogener Reviews erhalten. Basierend auf Ihren Einstellungen fließen diese Reviews nicht in die Gesamtnote dieses Produkts ein."
+    },
+    {
+        "game_name": "War Thunder",
+        "original_price": "Kostenlos",
+        "game_url": "https://store.steampowered.com/app/236390/War_Thunder/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/236390/capsule_sm_120.jpg?t=1584972653",
+        "release_date": "15. Aug. 2013",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux",
+            "VR_Supported"
+        ],
+        "reviews_summary": "Sehr positiv80 % der 146,379 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Rocket League®",
+        "original_price": "19,99€",
+        "game_url": "https://store.steampowered.com/app/252950/Rocket_League/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/252950/capsule_sm_120_alt_assets_10.jpg?t=1584634595",
+        "release_date": "6. Juli 2015",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv92 % der 283,111 Nutzerreviews für dieses Spiel sind positiv.Dieses Produkt hat über einen oder mehrere Zeiträume eine Vielzahl nicht themenbezogener Reviews erhalten. Basierend auf Ihren Einstellungen fließen diese Reviews nicht in die Gesamtnote dieses Produkts ein."
+    },
+    {
+        "game_name": "Warframe",
+        "original_price": "Kostenlos",
+        "game_url": "https://store.steampowered.com/app/230410/Warframe/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/230410/capsule_sm_120.jpg?t=1583772813",
+        "release_date": "25. März 2013",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv92 % der 340,526 Nutzerreviews für dieses Spiel sind positiv.Dieses Produkt hat über einen oder mehrere Zeiträume eine Vielzahl nicht themenbezogener Reviews erhalten. Basierend auf Ihren Einstellungen fließen diese Reviews nicht in die Gesamtnote dieses Produkts ein."
+    },
+    {
+        "game_name": "Rust",
+        "original_price": "33,99€",
+        "discount_rate": "50%",
+        "discounted_price": "16,99€",
+        "game_url": "https://store.steampowered.com/app/252490/Rust/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/252490/capsule_sm_120.jpg?t=1579783966",
+        "release_date": "8. Feb. 2018",
+        "platforms": [
+            "Windows",
+            "Mac os"
+        ],
+        "reviews_summary": "Sehr positiv83 % der 317,334 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Arma 3",
+        "original_price": "27,99€",
+        "discount_rate": "70%",
+        "discounted_price": "8,39€",
+        "game_url": "https://store.steampowered.com/app/107410/Arma_3/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/107410/capsule_sm_120_alt_assets_7.jpg?t=1584715308",
+        "release_date": "12. Sep. 2013",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv90 % der 107,918 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "RimWorld",
+        "original_price": "29,99€",
+        "game_url": "https://store.steampowered.com/app/294100/RimWorld/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/294100/capsule_sm_120.jpg?t=1584655002",
+        "release_date": "17. Okt. 2018",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux"
+        ],
+        "reviews_summary": "Äußerst positiv98 % der 56,220 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Stardew Valley",
+        "original_price": "13,99€",
+        "game_url": "https://store.steampowered.com/app/413150/Stardew_Valley/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/413150/capsule_sm_120.jpg?t=1583864420",
+        "release_date": "26. Feb. 2016",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux"
+        ],
+        "reviews_summary": "Äußerst positiv97 % der 187,156 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Cities: Skylines",
+        "original_price": "27,99€",
+        "game_url": "https://store.steampowered.com/app/255710/Cities_Skylines/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/255710/capsule_sm_120.jpg?t=1584631740",
+        "release_date": "10. März 2015",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux"
+        ],
+        "reviews_summary": "Sehr positiv92 % der 80,870 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Dead by Daylight",
+        "original_price": "19,99€",
+        "game_url": "https://store.steampowered.com/app/381210/Dead_by_Daylight/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/381210/capsule_sm_120.jpg?t=1583856335",
+        "release_date": "14. Juni 2016",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv80 % der 211,210 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Halo: The Master Chief Collection",
+        "original_price": "39,99€",
+        "game_url": "https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/976730/capsule_sm_120.jpg?t=1583274094",
+        "release_date": "3. Dez. 2019",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv91 % der 70,398 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Raft",
+        "original_price": "19,99€",
+        "game_url": "https://store.steampowered.com/app/648800/Raft/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/648800/capsule_sm_120.jpg?t=1575637395",
+        "release_date": "23. Mai 2018",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv87 % der 37,859 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Farming Simulator 19",
+        "original_price": "24,99€",
+        "game_url": "https://store.steampowered.com/app/787860/Farming_Simulator_19/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/787860/capsule_sm_120.jpg?t=1583834558",
+        "release_date": "19. Nov. 2018",
+        "platforms": [
+            "Windows",
+            "Mac os"
+        ],
+        "reviews_summary": "Sehr positiv89 % der 17,673 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Pummel Party",
+        "original_price": "12,49€",
+        "game_url": "https://store.steampowered.com/app/880940/Pummel_Party/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/880940/capsule_sm_120.jpg?t=1579197032",
+        "release_date": "20. Sep. 2018",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv90 % der 6,147 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "SMITE®",
+        "original_price": "Kostenlos",
+        "game_url": "https://store.steampowered.com/app/386360/SMITE/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/386360/capsule_sm_120_german.jpg?t=1582644277",
+        "release_date": "8. Sep. 2015",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv80 % der 60,402 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Assassin's Creed® Origins",
+        "original_price": "59,99€",
+        "discount_rate": "75%",
+        "discounted_price": "14,99€",
+        "game_url": "https://store.steampowered.com/app/582160/Assassins_Creed_Origins/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/582160/capsule_sm_120.jpg?t=1575638190",
+        "release_date": "26. Okt. 2017",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv84 % der 41,624 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Black Mesa",
+        "original_price": "17,99€",
+        "game_url": "https://store.steampowered.com/app/362890/Black_Mesa/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/362890/capsule_sm_120.jpg?t=1583518965",
+        "release_date": "6. März 2020",
+        "platforms": [
+            "Windows",
+            "Linux"
+        ],
+        "reviews_summary": "Äußerst positiv95 % der 29,631 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Sid Meier’s Civilization® VI",
+        "original_price": "59,99€",
+        "game_url": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/289070/capsule_sm_120.jpg?t=1584033558",
+        "release_date": "20. Okt. 2016",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux"
+        ],
+        "reviews_summary": "Größtenteils positiv78 % der 65,804 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "UNO",
+        "original_price": "9,99€",
+        "discount_rate": "70%",
+        "discounted_price": "2,99€",
+        "game_url": "https://store.steampowered.com/app/470220/UNO/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/470220/capsule_sm_120.jpg?t=1584461969",
+        "release_date": "3. Jan. 2017",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Größtenteils positiv73 % der 12,689 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Wolcen: Lords of Mayhem",
+        "original_price": "34,99€",
+        "game_url": "https://store.steampowered.com/app/424370/Wolcen_Lords_of_Mayhem/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/424370/capsule_sm_120.jpg?t=1581614791",
+        "release_date": "13. Feb. 2020",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Ausgeglichen56 % der 48,380 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "FINAL FANTASY XIV Online",
+        "original_price": "9,99€",
+        "game_url": "https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/39210/capsule_sm_120.jpg?t=1579047377",
+        "release_date": "18. Feb. 2014",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv86 % der 18,596 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "F1® 2019",
+        "original_price": "49,99€",
+        "discount_rate": "70%",
+        "discounted_price": "14,99€",
+        "game_url": "https://store.steampowered.com/app/928600/F1_2019/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/928600/capsule_sm_120.jpg?t=1581630104",
+        "release_date": "27. Juni 2019",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv90 % der 5,942 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "State of Decay 2: Juggernaut Edition",
+        "original_price": "29,99€",
+        "game_url": "https://store.steampowered.com/app/495420/State_of_Decay_2_Juggernaut_Edition/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/495420/capsule_sm_120.jpg?t=1584422426",
+        "release_date": "13. März 2020",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Ausgeglichen64 % der 5,173 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Dota 2",
+        "original_price": "Kostenlos",
+        "game_url": "https://store.steampowered.com/app/570/Dota_2/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/570/capsule_sm_120.jpg?t=1581406684",
+        "release_date": "9. Juli 2013",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux",
+            "VR_Supported"
+        ],
+        "reviews_summary": "Sehr positiv85 % der 1,250,657 Nutzerreviews für dieses Spiel sind positiv."
+    }
+][
+    {
+        "game_name": "Counter-Strike: Global Offensive",
+        "release_date": "21. Aug. 2012",
+        "original_price": "Kostenlos",
+        "game_url": "https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/730/capsule_sm_120.jpg?t=1580765900",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux"
+        ],
+        "reviews_summary": "Sehr positiv87 % der 4,076,344 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "DOOM Eternal",
+        "release_date": "19. März 2020",
+        "original_price": "59,99€",
+        "game_url": "https://store.steampowered.com/app/782330/DOOM_Eternal/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/782330/capsule_sm_120.jpg?t=1584739240",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv90 % der 22,307 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Half-Life: Alyx",
+        "release_date": "23. März 2020",
+        "original_price": "49,99€",
+        "game_url": "https://store.steampowered.com/app/546560/HalfLife_Alyx/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/546560/capsule_sm_120.jpg?t=1584985275",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Äußerst positiv96 % der 4,963 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Red Dead Redemption 2",
+        "release_date": "5. Dez. 2019",
+        "original_price": "59,99€",
+        "discount_rate": "20%",
+        "discounted_price": "47,99€",
+        "game_url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/1174180/capsule_sm_120.jpg?t=1583253547",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Größtenteils positiv71 % der 61,890 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Tom Clancy's Rainbow Six® Siege",
+        "release_date": "1. Dez. 2015",
+        "original_price": "19,99€",
+        "discount_rate": "60%",
+        "discounted_price": "7,99€",
+        "game_url": "https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/359550/capsule_sm_120.jpg?t=1583856715",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv88 % der 519,405 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Grand Theft Auto V",
+        "release_date": "13. Apr. 2015",
+        "original_price": "29,99€",
+        "discount_rate": "50%",
+        "discounted_price": "14,99€",
+        "game_url": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/271590/capsule_sm_120.jpg?t=1579797647",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Größtenteils positiv78 % der 692,163 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Assassin's Creed® Odyssey",
+        "release_date": "5. Okt. 2018",
+        "original_price": "59,99€",
+        "discount_rate": "67%",
+        "discounted_price": "19,79€",
+        "game_url": "https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/812140/capsule_sm_120.jpg?t=1584609685",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv87 % der 48,139 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "MONSTER HUNTER: WORLD",
+        "release_date": "9. Aug. 2018",
+        "original_price": "29,99€",
+        "discount_rate": "34%",
+        "discounted_price": "19,79€",
+        "game_url": "https://store.steampowered.com/app/582010/MONSTER_HUNTER_WORLD/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/582010/capsule_sm_120.jpg?t=1583974232",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv81 % der 135,987 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "The Witcher® 3: Wild Hunt",
+        "release_date": "18. Mai 2015",
+        "original_price": "29,99€",
+        "discount_rate": "70%",
+        "discounted_price": "8,99€",
+        "game_url": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/292030/capsule_sm_120.jpg?t=1581375222",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Äußerst positiv98 % der 312,467 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Planet Zoo",
+        "release_date": "5. Nov. 2019",
+        "original_price": "44,99€",
+        "discount_rate": "20%",
+        "discounted_price": "35,99€",
+        "game_url": "https://store.steampowered.com/app/703080/Planet_Zoo/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/703080/capsule_sm_120.jpg?t=1578044080",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv87 % der 20,132 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Black Desert Online",
+        "release_date": "24. Mai 2017",
+        "original_price": "9,99€",
+        "game_url": "https://store.steampowered.com/app/582660/Black_Desert_Online/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/582660/capsule_sm_120.jpg?t=1582826837",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Größtenteils positiv72 % der 22,280 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Stellaris",
+        "release_date": "9. Mai 2016",
+        "original_price": "39,99€",
+        "game_url": "https://store.steampowered.com/app/281990/Stellaris/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/281990/capsule_sm_120.jpg?t=1584545640",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux"
+        ],
+        "reviews_summary": "Sehr positiv83 % der 51,833 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Path of Exile",
+        "release_date": "23. Okt. 2013",
+        "original_price": "Kostenlos",
+        "game_url": "https://store.steampowered.com/app/238960/Path_of_Exile/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/238960/capsule_sm_120.jpg?t=1584387270",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv93 % der 125,816 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Age of Empires II: Definitive Edition",
+        "release_date": "14. Nov. 2019",
+        "original_price": "19,99€",
+        "game_url": "https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/813780/capsule_sm_120.jpg?t=1584557567",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv91 % der 31,713 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Divinity: Original Sin 2 - Definitive Edition",
+        "release_date": "14. Sep. 2017",
+        "original_price": "44,99€",
+        "discount_rate": "50%",
+        "discounted_price": "22,49€",
+        "game_url": "https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/435150/capsule_sm_120.jpg?t=1581362845",
+        "platforms": [
+            "Windows",
+            "Mac os"
+        ],
+        "reviews_summary": "Äußerst positiv95 % der 68,873 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "The Elder Scrolls® Online",
+        "release_date": "22. Mai 2017",
+        "original_price": "19,99€",
+        "game_url": "https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/306130/capsule_sm_120.jpg?t=1584121622",
+        "platforms": [
+            "Windows",
+            "Mac os"
+        ],
+        "reviews_summary": "Sehr positiv80 % der 53,305 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Monster Hunter World: Iceborne",
+        "release_date": "9. Jan. 2020",
+        "original_price": "39,99€",
+        "discount_rate": "25%",
+        "discounted_price": "29,99€",
+        "game_url": "https://store.steampowered.com/app/1118010/Monster_Hunter_World_Iceborne/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/1118010/capsule_sm_120.jpg?t=1583972407",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Ausgeglichen45 % der 9,538 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Ori and the Will of the Wisps",
+        "release_date": "10. März 2020",
+        "original_price": "29,99€",
+        "game_url": "https://store.steampowered.com/app/1057090/Ori_and_the_Will_of_the_Wisps/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/1057090/capsule_sm_120.jpg?t=1584751402",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv93 % der 18,433 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Far Cry® 5",
+        "release_date": "26. März 2018",
+        "original_price": "59,99€",
+        "discount_rate": "75%",
+        "discounted_price": "14,99€",
+        "game_url": "https://store.steampowered.com/app/552520/Far_Cry_5/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/552520/capsule_sm_120.jpg?t=1575655495",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Größtenteils positiv73 % der 49,580 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Euro Truck Simulator 2",
+        "release_date": "12. Okt. 2012",
+        "original_price": "19,99€",
+        "game_url": "https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/227300/capsule_sm_120.jpg?t=1584533902",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux"
+        ],
+        "reviews_summary": "Äußerst positiv97 % der 204,210 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Borderlands 3",
+        "release_date": "13. März 2020",
+        "original_price": "59,99€",
+        "game_url": "https://store.steampowered.com/app/397540/Borderlands_3/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/397540/capsule_sm_120.jpg?t=1584481269",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Größtenteils positiv79 % der 15,064 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Tabletop Simulator",
+        "release_date": "5. Juni 2015",
+        "original_price": "19,99€",
+        "game_url": "https://store.steampowered.com/app/286160/Tabletop_Simulator/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/286160/capsule_sm_120.jpg?t=1582487907",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux",
+            "VR_Supported"
+        ],
+        "reviews_summary": "Sehr positiv94 % der 13,434 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "ARK: Survival Evolved",
+        "release_date": "29. Aug. 2017",
+        "original_price": "54,99€",
+        "game_url": "https://store.steampowered.com/app/346110/ARK_Survival_Evolved/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/346110/capsule_sm_120.jpg?t=1583178772",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux"
+        ],
+        "reviews_summary": "Größtenteils positiv75 % der 239,283 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Destiny 2",
+        "release_date": "1. Okt. 2019",
+        "original_price": "Kostenlos spielbar",
+        "game_url": "https://store.steampowered.com/app/1085660/Destiny_2/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/1085660/capsule_sm_120.jpg?t=1583858222",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv88 % der 210,660 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Stellaris: Federations",
+        "release_date": "17. März 2020",
+        "original_price": "19,99€",
+        "game_url": "https://store.steampowered.com/app/1140001/Stellaris_Federations/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/1140001/capsule_sm_120.jpg?t=1584455873",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux"
+        ],
+        "reviews_summary": "Größtenteils positiv73 % der 551 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "STAR WARS Jedi: Fallen Order™",
+        "release_date": "15. Nov. 2019",
+        "original_price": "59,99€",
+        "game_url": "https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/1172380/capsule_sm_120.jpg?t=1582679181",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv92 % der 37,778 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Shadow of the Tomb Raider: Definitive Edition",
+        "release_date": "14. Sep. 2018",
+        "original_price": "",
+        "game_url": "https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/750920/capsule_sm_120.jpg?t=1576776941",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux"
+        ],
+        "reviews_summary": "Sehr positiv81 % der 19,639 Nutzerreviews für dieses Spiel sind positiv.Dieses Produkt hat über einen oder mehrere Zeiträume eine Vielzahl nicht themenbezogener Reviews erhalten. Basierend auf Ihren Einstellungen fließen diese Reviews nicht in die Gesamtnote dieses Produkts ein."
+    },
+    {
+        "game_name": "War Thunder",
+        "release_date": "15. Aug. 2013",
+        "original_price": "Kostenlos",
+        "game_url": "https://store.steampowered.com/app/236390/War_Thunder/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/236390/capsule_sm_120.jpg?t=1584972653",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux",
+            "VR_Supported"
+        ],
+        "reviews_summary": "Sehr positiv80 % der 146,379 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Rocket League®",
+        "release_date": "6. Juli 2015",
+        "original_price": "19,99€",
+        "game_url": "https://store.steampowered.com/app/252950/Rocket_League/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/252950/capsule_sm_120_alt_assets_10.jpg?t=1584634595",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv92 % der 283,111 Nutzerreviews für dieses Spiel sind positiv.Dieses Produkt hat über einen oder mehrere Zeiträume eine Vielzahl nicht themenbezogener Reviews erhalten. Basierend auf Ihren Einstellungen fließen diese Reviews nicht in die Gesamtnote dieses Produkts ein."
+    },
+    {
+        "game_name": "Warframe",
+        "release_date": "25. März 2013",
+        "original_price": "Kostenlos",
+        "game_url": "https://store.steampowered.com/app/230410/Warframe/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/230410/capsule_sm_120.jpg?t=1583772813",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv92 % der 340,526 Nutzerreviews für dieses Spiel sind positiv.Dieses Produkt hat über einen oder mehrere Zeiträume eine Vielzahl nicht themenbezogener Reviews erhalten. Basierend auf Ihren Einstellungen fließen diese Reviews nicht in die Gesamtnote dieses Produkts ein."
+    },
+    {
+        "game_name": "Rust",
+        "release_date": "8. Feb. 2018",
+        "original_price": "33,99€",
+        "discount_rate": "50%",
+        "discounted_price": "16,99€",
+        "game_url": "https://store.steampowered.com/app/252490/Rust/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/252490/capsule_sm_120.jpg?t=1579783966",
+        "platforms": [
+            "Windows",
+            "Mac os"
+        ],
+        "reviews_summary": "Sehr positiv83 % der 317,334 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Arma 3",
+        "release_date": "12. Sep. 2013",
+        "original_price": "27,99€",
+        "discount_rate": "70%",
+        "discounted_price": "8,39€",
+        "game_url": "https://store.steampowered.com/app/107410/Arma_3/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/107410/capsule_sm_120_alt_assets_7.jpg?t=1584715308",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv90 % der 107,918 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "RimWorld",
+        "release_date": "17. Okt. 2018",
+        "original_price": "29,99€",
+        "game_url": "https://store.steampowered.com/app/294100/RimWorld/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/294100/capsule_sm_120.jpg?t=1584655002",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux"
+        ],
+        "reviews_summary": "Äußerst positiv98 % der 56,220 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Stardew Valley",
+        "release_date": "26. Feb. 2016",
+        "original_price": "13,99€",
+        "game_url": "https://store.steampowered.com/app/413150/Stardew_Valley/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/413150/capsule_sm_120.jpg?t=1583864420",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux"
+        ],
+        "reviews_summary": "Äußerst positiv97 % der 187,156 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Cities: Skylines",
+        "release_date": "10. März 2015",
+        "original_price": "27,99€",
+        "game_url": "https://store.steampowered.com/app/255710/Cities_Skylines/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/255710/capsule_sm_120.jpg?t=1584631740",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux"
+        ],
+        "reviews_summary": "Sehr positiv92 % der 80,870 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Dead by Daylight",
+        "release_date": "14. Juni 2016",
+        "original_price": "19,99€",
+        "game_url": "https://store.steampowered.com/app/381210/Dead_by_Daylight/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/381210/capsule_sm_120.jpg?t=1583856335",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv80 % der 211,210 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Halo: The Master Chief Collection",
+        "release_date": "3. Dez. 2019",
+        "original_price": "39,99€",
+        "game_url": "https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/976730/capsule_sm_120.jpg?t=1583274094",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv91 % der 70,398 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Raft",
+        "release_date": "23. Mai 2018",
+        "original_price": "19,99€",
+        "game_url": "https://store.steampowered.com/app/648800/Raft/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/648800/capsule_sm_120.jpg?t=1575637395",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv87 % der 37,859 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Farming Simulator 19",
+        "release_date": "19. Nov. 2018",
+        "original_price": "24,99€",
+        "game_url": "https://store.steampowered.com/app/787860/Farming_Simulator_19/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/787860/capsule_sm_120.jpg?t=1583834558",
+        "platforms": [
+            "Windows",
+            "Mac os"
+        ],
+        "reviews_summary": "Sehr positiv89 % der 17,673 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Pummel Party",
+        "release_date": "20. Sep. 2018",
+        "original_price": "12,49€",
+        "game_url": "https://store.steampowered.com/app/880940/Pummel_Party/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/880940/capsule_sm_120.jpg?t=1579197032",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv90 % der 6,147 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "SMITE®",
+        "release_date": "8. Sep. 2015",
+        "original_price": "Kostenlos",
+        "game_url": "https://store.steampowered.com/app/386360/SMITE/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/386360/capsule_sm_120_german.jpg?t=1582644277",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv80 % der 60,402 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Assassin's Creed® Origins",
+        "release_date": "26. Okt. 2017",
+        "original_price": "59,99€",
+        "discount_rate": "75%",
+        "discounted_price": "14,99€",
+        "game_url": "https://store.steampowered.com/app/582160/Assassins_Creed_Origins/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/582160/capsule_sm_120.jpg?t=1575638190",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv84 % der 41,624 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Black Mesa",
+        "release_date": "6. März 2020",
+        "original_price": "17,99€",
+        "game_url": "https://store.steampowered.com/app/362890/Black_Mesa/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/362890/capsule_sm_120.jpg?t=1583518965",
+        "platforms": [
+            "Windows",
+            "Linux"
+        ],
+        "reviews_summary": "Äußerst positiv95 % der 29,631 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Sid Meier’s Civilization® VI",
+        "release_date": "20. Okt. 2016",
+        "original_price": "59,99€",
+        "game_url": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/289070/capsule_sm_120.jpg?t=1584033558",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux"
+        ],
+        "reviews_summary": "Größtenteils positiv78 % der 65,804 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "UNO",
+        "release_date": "3. Jan. 2017",
+        "original_price": "9,99€",
+        "discount_rate": "70%",
+        "discounted_price": "2,99€",
+        "game_url": "https://store.steampowered.com/app/470220/UNO/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/470220/capsule_sm_120.jpg?t=1584461969",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Größtenteils positiv73 % der 12,689 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Wolcen: Lords of Mayhem",
+        "release_date": "13. Feb. 2020",
+        "original_price": "34,99€",
+        "game_url": "https://store.steampowered.com/app/424370/Wolcen_Lords_of_Mayhem/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/424370/capsule_sm_120.jpg?t=1581614791",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Ausgeglichen56 % der 48,380 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "FINAL FANTASY XIV Online",
+        "release_date": "18. Feb. 2014",
+        "original_price": "9,99€",
+        "game_url": "https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/39210/capsule_sm_120.jpg?t=1579047377",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv86 % der 18,596 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "F1® 2019",
+        "release_date": "27. Juni 2019",
+        "original_price": "49,99€",
+        "discount_rate": "70%",
+        "discounted_price": "14,99€",
+        "game_url": "https://store.steampowered.com/app/928600/F1_2019/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/928600/capsule_sm_120.jpg?t=1581630104",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Sehr positiv90 % der 5,942 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "State of Decay 2: Juggernaut Edition",
+        "release_date": "13. März 2020",
+        "original_price": "29,99€",
+        "game_url": "https://store.steampowered.com/app/495420/State_of_Decay_2_Juggernaut_Edition/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/495420/capsule_sm_120.jpg?t=1584422426",
+        "platforms": [
+            "Windows"
+        ],
+        "reviews_summary": "Ausgeglichen64 % der 5,173 Nutzerreviews für dieses Spiel sind positiv."
+    },
+    {
+        "game_name": "Dota 2",
+        "release_date": "9. Juli 2013",
+        "original_price": "Kostenlos",
+        "game_url": "https://store.steampowered.com/app/570/Dota_2/?snr=1_7_7_230_150_1",
+        "img_url": "https://steamcdn-a.akamaihd.net/steam/apps/570/capsule_sm_120.jpg?t=1581406684",
+        "platforms": [
+            "Windows",
+            "Mac os",
+            "Linux",
+            "VR_Supported"
+        ],
+        "reviews_summary": "Sehr positiv85 % der 1,250,657 Nutzerreviews für dieses Spiel sind positiv."
+    }
+]
